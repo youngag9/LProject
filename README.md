@@ -1,7 +1,7 @@
 # Test
 
 #### 1. SQL 
-<a>https://youngag9.github.io/LProject/01_기초데이터탐색.html</a>  
+[기초데이터탐색](https://youngag9.github.io/LProject/01_기초데이터탐색.html)  
 <a>https://youngag9.github.io/LProject/SQL.html</a>  
 01 보고서  
 02 arima 시계열 예측(일주일분 예측)  
