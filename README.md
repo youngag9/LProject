@@ -1,7 +1,7 @@
-# 롯데 온라인쇼핑몰 분석 기반 개인화 서비스 제안 프로젝트
+## 롯데 온라인쇼핑몰 분석 기반 개인화 서비스 제안 프로젝트
 
 ### 보고서
-[pdf]https://youngag9.github.io/LProject/롯데_보고서.pdf  
+[pdf](https://youngag9.github.io/LProject/롯데_보고서.pdf)  
 #### 1. SQL 
 [기초데이터탐색](https://youngag9.github.io/LProject/01_기초데이터탐색.html)  
 https://youngag9.github.io/LProject/SQL.html  
