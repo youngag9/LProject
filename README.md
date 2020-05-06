@@ -3,8 +3,8 @@
 ### 보고서 및 전체 
 #### 1. SQL 
 [기초데이터탐색](https://youngag9.github.io/LProject/01_기초데이터탐색.html)  
-<a>https://youngag9.github.io/LProject/SQL.html</a>  
-<a>https://youngag9.github.io/LProject/롯데온라인쇼핑몰_개인화서비스제안ppt.pdf</
+https://youngag9.github.io/LProject/SQL.html  
+https://youngag9.github.io/LProject/롯데온라인쇼핑몰_개인화서비스제안ppt.pdf  
 01 보고서  
 02 arima 시계열 예측(일주일분 예측)  
 03 대대분류 시계열 분석  
