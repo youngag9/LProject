@@ -6,6 +6,9 @@
 ### 분석 보고서
 >[pdf](https://youngag9.github.io/LProject/롯데_보고서.pdf)  
 
+
+ 위의 보고서에 포함된 분석과정은 아래의 html파일로 확인할 수 있다.
+
 [기초데이터탐색](https://youngag9.github.io/LProject/01_기초데이터탐색.html)  
 https://youngag9.github.io/LProject/SQL.html  
 https://youngag9.github.io/LProject/롯데온라인쇼핑몰_개인화서비스제안ppt.pdf  
