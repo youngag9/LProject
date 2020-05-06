@@ -1,10 +1,12 @@
-# Test
+# 롯데 온라인쇼핑몰 분석 기반 개인화 서비스 제안 프로젝트
 
-### 보고서 및 전체 
+### 보고서
+[pdf]https://youngag9.github.io/LProject/롯데_보고서.pdf  
 #### 1. SQL 
 [기초데이터탐색](https://youngag9.github.io/LProject/01_기초데이터탐색.html)  
 https://youngag9.github.io/LProject/SQL.html  
 https://youngag9.github.io/LProject/롯데온라인쇼핑몰_개인화서비스제안ppt.pdf  
+
 01 보고서  
 02 arima 시계열 예측(일주일분 예측)  
 03 대대분류 시계열 분석  
