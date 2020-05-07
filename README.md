@@ -10,9 +10,9 @@
 
  위의 보고서에 포함된 분석과정은 아래의 html파일로 확인할 수 있다.
 
-[Arima 시계열 예측](https://youngag9.github.io/LProject/1. Arima_시계열 예측.html)  
-[대대분류 시계열 분석](https://youngag9.github.io/LProject/2. 대대분류 시계열 분석.html)  
-[Prophet을 이용한 시계열 예측](https://youngag9.github.io/LProject/3. Prophet_시계열 예측.html)  
+[Arima 시계열 예측](https://youngag9.github.io/LProject/1.%20Arima_시계열%20예측.html)  
+[대대분류 시계열 분석](https://youngag9.github.io/LProject/2.%20대대분류%20시계열%20분석.html)  
+[Prophet을 이용한 시계열 예측](https://youngag9.github.io/LProject/3.%20Prophet_시계열%20예측.html)  
 [Pytorch를 이용하여 한 달 구매액 예측](https://youngag9.github.io/LProject/4. Pytorch_1달 구매액 예측.html)  
 [Oracle의 테이블 작업](https://youngag9.github.io/LProject/5. SQL_테이블.html)  
 [데이터 정제](https://youngag9.github.io/LProject/6. 데이터정제.html)  
