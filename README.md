@@ -25,5 +25,5 @@
 * [아이템 기반 협업 필터링을 통한 중분류 추천 전략](https://youngag9.github.io/LProject/13_협업필터링.html)  
 * [개인화를 위한 고객 세분화](https://youngag9.github.io/LProject/14_고객_세분화.html)  
 * [대대분류 내, 연관분석 통한 소분류 추천 전략](https://youngag9.github.io/LProject/15_연관분석.html)  
-* [Normal/VIP 고객의 이탈률 분석](https://youngag9.github.io/LProject/16_이탈률 분석.html)  
+* [Normal/VIP 고객의 이탈률 분석](https://youngag9.github.io/LProject/16_이탈률_분석.html)  
 
